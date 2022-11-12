@@ -15,7 +15,6 @@ body{
 .section {
     display: flex;
     justify-content: center;
-    align-items: center;
     min-height: 100vh;
     width: 100%;
 }
@@ -46,4 +45,9 @@ body{
     padding: 4px 0;
     font-weight: 600;
     font-size: 15px;
+}
+.section .container .box .content p.arti{
+    font-size: 10px;
+    padding-bottom: 3px;
+    font-weight: 500;
 }
